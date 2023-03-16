@@ -12,4 +12,5 @@ A source of competitive and algorithmic programming questions
  - [What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2)
  - [What is Competitive Programming?](https://www.youtube.com/watch?v=ueNT-w7Oluw)
  - [How to start Competitive Programming? For beginners!](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
+ - [What is Competitive Programming? (with Errichto)](https://www.youtube.com/watch?v=FclRiLbH55E)
  

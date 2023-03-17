@@ -13,4 +13,5 @@ A source of competitive and algorithmic programming questions
  - [What is Competitive Programming?](https://www.youtube.com/watch?v=ueNT-w7Oluw)
  - [How to start Competitive Programming? For beginners!](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
  - [What is Competitive Programming? (with Errichto)](https://www.youtube.com/watch?v=FclRiLbH55E)
- [How to Start Competitive Programming on Codeforces ...)](https://www.youtube.com/watch?v=hQ8GYk9gkcE)
+ - [How to Start Competitive Programming on Codeforces ...)](https://www.youtube.com/watch?v=hQ8GYk9gkcE)
+ 

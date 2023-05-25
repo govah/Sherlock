@@ -20,5 +20,5 @@ Following are the steps to create a left triangle star pattern in C++:
 3. Use cout << "\n" to break the line at the end of the internal loop.
 4. The internal loop will run the number of times as the external loop has run.
 ```
-[Code]()
+[Code](https://github.com/govah/Sherlock/blob/main/Easy/Left%20triangle%20star%20pattern/code.cpp)
 

@@ -19,5 +19,5 @@ Decide the size of the triangle.
 Create a nested loop where the internal loop print star for times equal to size minus the outer loop index.
 Break the line after the end of the inner loop using cout << "\n".
 ```
-[Code]()
+[Code](https://github.com/govah/Sherlock/blob/main/Easy/Left%20down%20triangle/code.cpp)
 

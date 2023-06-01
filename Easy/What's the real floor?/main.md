@@ -19,4 +19,5 @@ Basements (negatives) stay the same as the universal level.
 -3  =>  -3
 ```
 [CodeWars](https://www.codewars.com/kata/574b3b1599d8f897470018f6)
+<br>
 [Code](https://github.com/govah/Sherlock/blob/main/Easy/What's%20the%20real%20floor%3F/code.cpp)

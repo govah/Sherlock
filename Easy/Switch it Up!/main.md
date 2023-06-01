@@ -8,4 +8,5 @@ Output :: "One".
 
 
 [CodeWars](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/cpp)
-[Code]()
+<br>
+[Code](https://github.com/govah/Sherlock/blob/main/Easy/Switch%20it%20Up!/code.cpp)
